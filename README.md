@@ -2,6 +2,8 @@
 
 MATLAB codes for interactive geodesic selective image segmentation. 
 
+To use you will need to extract the FastMarching zip file, and run the compile_mex.m file. Then you should be able to run the examples.
+
 The geodesic fitting term is based on:
 
 Roberts, Michael, Ke Chen, and Klaus L. Irion. "A Convex Geodesic Selective Model for Image Segmentation." Journal of Mathematical Imaging and Vision (2018): 1-22.
